@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500&display=swap');
+/*
+font-family: 'Space Grotesk', sans-serif;
+*/
+
+
+
+
+.background-pic img{
+
+    margin-left: -10px;
+    margin-top: -10px; 
+   position: relative;
+
+}
+
+.card-logo {
+
+
+   position: absolute;
+   top: 30px;
+   left: 20px;
+
+
+}
+
+
+.front-card  {
+
+
+    font-family: 'Space Grotesk', sans-serif;
+    top: 150px;
+    right: 650px;
+    position: absolute; 
+   
+
+}
+
+
+.back-card  {
+
+    
+
+
+
+}
+
+
